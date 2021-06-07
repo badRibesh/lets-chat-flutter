@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "**/.dart_tool": true,
+    "**/.dart_tool.*": true,
+    ".idea": true,
+    ".vscode": true,
+    ".metadata": true,
+    ".packages": true,
+    "CHANGELOG.md": true,
+    "chat.iml": true,
+    "LICENSE": true
+  }
+}
